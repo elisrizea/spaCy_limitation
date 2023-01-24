@@ -1,6 +1,6 @@
 
 # **Manage items inventory**
-    Showcase spaCy limitationn
+    Showcase spaCy limitation
     
 
 # **Description:**
