@@ -10,7 +10,7 @@
     Print the sentence tokens
 
 # **Require:**
-    Require spaCy module and en_core_web_sm
+    Require spaCy module and english language model en_core_web_sm
     All installation details depending on platform:
     https://spacy.io/usage
     
