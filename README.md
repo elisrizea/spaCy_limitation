@@ -11,7 +11,7 @@
 
 # **Require:**
     Require spaCy module and english language model en_core_web_sm
-    All installation details depending on platform:
+    spaCy installation and usage page is:
     https://spacy.io/usage
     
 
